@@ -16,10 +16,12 @@ I'm a Developer and DevOps Professional based in the Philippines, currently work
 ![GitHub Snake](https://raw.githubusercontent.com/smatoto/smatoto/refs/heads/output/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake](https://raw.githubusercontent.com/smatoto/smatoto/refs/heads/output/github-snake.svg#gh-light-mode-only)
 
-<img align="left" width="45%" alt="GitHub Metrics" src="https://raw.githubusercontent.com/smatoto/smatoto/main/github-metrics.svg" />
-<img align="right" width="45%" alt="GitHub Metrics" src="https://raw.githubusercontent.com/smatoto/smatoto/main/github-stars.svg" />
-
-<br clear="all" />
+<table width="100%">
+  <tr>
+    <td width="50%"><img width="100%" alt="GitHub Metrics" src="https://raw.githubusercontent.com/smatoto/smatoto/main/github-metrics.svg" /></td>
+    <td width="50%"><img width="100%" alt="GitHub Stars" src="https://raw.githubusercontent.com/smatoto/smatoto/main/github-stars.svg" /></td>
+  </tr>
+</table>
 
 <h3 align="left">Let's Connect!</h3>
 
